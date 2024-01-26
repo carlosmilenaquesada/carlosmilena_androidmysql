@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_activity_mostrar_catalogo.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/activity_mostrar_catalogo.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_spinner_desplegado.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/spinner_desplegado.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_spinner_cerrado.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/spinner_cerrado.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_activity_autenticacion.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/activity_autenticacion.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_item_rv_juego.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/item_rv_juego.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_activity_menu_general.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/activity_menu_general.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/drawable_insertarimagen.png.flat",
+        "source": "com.example.pm_mysql.app-main-33:/drawable/insertarimagen.png"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_activity_crear_cuenta.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/activity_crear_cuenta.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/drawable_fondonav.png.flat",
+        "source": "com.example.pm_mysql.app-main-33:/drawable/fondonav.png"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_activity_modificar_juego.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/activity_modificar_juego.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/layout_activity_agregar_nuevo_juego.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/layout/activity_agregar_nuevo_juego.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.pm_mysql.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/drawable_imagen_no_disponible.png.flat",
+        "source": "com.example.pm_mysql.app-main-33:/drawable/imagen_no_disponible.png"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/drawable_wellplayedlogo.png.flat",
+        "source": "com.example.pm_mysql.app-main-33:/drawable/wellplayedlogo.png"
+    },
+    {
+        "merged": "com.example.pm_mysql.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pm_mysql.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
